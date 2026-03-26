@@ -1,0 +1,15 @@
+.juego {
+    width: 500px;
+    height: 400px;
+    background: black;
+    position: relative;
+}
+
+.pala {
+    width: 100px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    bottom: 0;
+    left: 200px;
+}
